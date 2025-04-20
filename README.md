@@ -53,12 +53,14 @@ This submission meets the core coding requirement:
 
 
 ## Screenshots
+provided in video
+<img width="1440" alt="Screenshot 2025-04-20 at 6 18 10 am" src="https://github.com/user-attachments/assets/612649c3-f6ea-4675-84b6-1a2b15310195" />
 
 `
 
 ## Demo and Explanation Video (Youtube)
 
-`[https://www.youtube.com/watch?v=g9JidZa9x70]`
+`[ https://www.youtube.com/watch?v=g9JidZa9x70 ]`
 *(This video should show the Solidity code, explain how it works, show the Remix interaction again, explain the deployment to Westmint EVM, and cover the repo structure)*
 
 ## GitHub Repo Structure
