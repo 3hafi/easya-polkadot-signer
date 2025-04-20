@@ -51,20 +51,14 @@ This submission meets the core coding requirement:
   * It is deployed and **fully-functioning** on **Polkadot Asset Hub** (specifically, the Westmint testnet instance, utilizing its EVM layer).
   * Functionality is demonstrated in the **Demo Video** linked below, showing successful contract interaction via Remix connected to the Westmint network.
 
-## Demo Video
-
-`[INSERT LINK TO YOUR DEMO VIDEO - e.g., Loom, YouTube]`
-*(Make sure this shows Remix connected to Westmint, calling signIn, getMessage, signerCount successfully)*
 
 ## Screenshots
 
-`[INSERT 1-2 SCREENSHOTS HERE]`
-*(e.g., Screenshot of successful deployment in Remix, Screenshot of calling getMessage/signerCount with results shown)*
-*(Upload images to GitHub repo, then use Markdown: )*
+`
 
-## Explanation Video (Loom)
+## Demo and Explanation Video (Youtube)
 
-`[INSERT LINK TO YOUR LOOM VIDEO HERE]`
+`[https://www.youtube.com/watch?v=g9JidZa9x70]`
 *(This video should show the Solidity code, explain how it works, show the Remix interaction again, explain the deployment to Westmint EVM, and cover the repo structure)*
 
 ## GitHub Repo Structure
@@ -76,5 +70,5 @@ This submission meets the core coding requirement:
 ## Deployed Contract Details
 
   * **Network:** Westmint (Asset Hub Testnet - Chain ID 420420421)
-  * **Contract Address:** `[PASTE YOUR DEPLOYED 0x... ADDRESS HERE]`
-  * **Explorer Link:** `[PASTE SUBSCAN LINK TO YOUR CONTRACT HERE - Go to https://assethub-westend.subscan.io/, search for your 0x... address, copy the URL of that contract page]`
+  * **Contract Address:** `[0xAA546F8e0De83c12a520C007A6668db58511a0fC]`
+  * **Explorer Link:** `[- Go to https://assethub-westend.subscan.io/, search for your 0x... address, copy the URL of that contract page]`
